@@ -147,7 +147,8 @@ submit.addEventListener('click', () => {
 
 
 
-
+// When start again button click then it comes in first phase
+// <button class="btn" onclick="location.reload()"> Start Again </button>
 
 
 
